@@ -1,0 +1,51 @@
+/* Estilos personalizados esteban */
+
+html, body{
+    background-color: rgb(218, 218, 218);
+}
+
+.seccion1{
+    background-color: rgb(28, 69, 146);
+}
+
+.seccion2{
+    background-color: rgb(37, 94, 201);
+}
+
+.seccion3{
+    background-color: rgb(48, 116, 241);
+}
+
+.seccion-form{
+    background-color: rgb(218, 218, 218);
+}
+
+.div-form {
+    padding: 2rem;
+}
+
+.tipo-formulario {
+    padding: 50px 40px;
+}
+
+.text-white {
+    color: white;
+}
+
+.display-none {
+    display: none;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.tipo-formulario-active {
+    clip-path: polygon(100% 0, 100% 35%, 90% 50%, 100% 66%, 100% 100%, 0 100%, 0 0);
+}
+
+.card-white {
+    background-color: white;
+    padding: 1rem;
+    border-radius: 10px;
+}
